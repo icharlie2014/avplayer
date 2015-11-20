@@ -29,6 +29,7 @@
 		E7D561361BFF092C006F89FC /* kr-video-player-point@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E7D5612A1BFF092C006F89FC /* kr-video-player-point@3x.png */; };
 		E7D561371BFF092C006F89FC /* kr-video-player-shrinkscreen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E7D5612B1BFF092C006F89FC /* kr-video-player-shrinkscreen@2x.png */; };
 		E7D561381BFF092C006F89FC /* kr-video-player-shrinkscreen@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E7D5612C1BFF092C006F89FC /* kr-video-player-shrinkscreen@3x.png */; };
+		E7D5613A1BFF12AD006F89FC /* a.gif in Resources */ = {isa = PBXBuildFile; fileRef = E7D561391BFF12AD006F89FC /* a.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +82,7 @@
 		E7D5612A1BFF092C006F89FC /* kr-video-player-point@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kr-video-player-point@3x.png"; sourceTree = "<group>"; };
 		E7D5612B1BFF092C006F89FC /* kr-video-player-shrinkscreen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kr-video-player-shrinkscreen@2x.png"; sourceTree = "<group>"; };
 		E7D5612C1BFF092C006F89FC /* kr-video-player-shrinkscreen@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kr-video-player-shrinkscreen@3x.png"; sourceTree = "<group>"; };
+		E7D561391BFF12AD006F89FC /* a.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = a.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 		E78B9C8B1BFDC9240018F686 /* AVPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				E7D561391BFF12AD006F89FC /* a.gif */,
 				E7D561201BFF092C006F89FC /* Assets */,
 				E7D561191BFF0904006F89FC /* Class */,
 				E78B9C8F1BFDC9240018F686 /* AppDelegate.h */,
@@ -315,6 +318,7 @@
 				E78B9C991BFDC9240018F686 /* Assets.xcassets in Resources */,
 				E78B9C971BFDC9240018F686 /* Main.storyboard in Resources */,
 				E7D561371BFF092C006F89FC /* kr-video-player-shrinkscreen@2x.png in Resources */,
+				E7D5613A1BFF12AD006F89FC /* a.gif in Resources */,
 				E7D561321BFF092C006F89FC /* kr-video-player-pause@3x.png in Resources */,
 				E7D561381BFF092C006F89FC /* kr-video-player-shrinkscreen@3x.png in Resources */,
 				E7D5612D1BFF092C006F89FC /* kr-video-player-close@2x.png in Resources */,
