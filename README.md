@@ -7,6 +7,8 @@
 ![enter image description here](https://github.com/icharlie2014/avplayer/blob/master/AVPlayer/a.gif?raw=true)
 
 
+```
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
